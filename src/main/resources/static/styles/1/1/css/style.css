@@ -1,0 +1,223 @@
+@@ -0,0 +1,100 @@
+body {
+  color: #525252;
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+  margin: 14px 0px 4px 0px;
+  padding: 0;
+  color: #01799e;
+}
+
+h1 {
+  font-size: 1.8em;
+  margin-bottom: .4em;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+h5 {
+  font-size: 1.1em;
+}
+
+h6 {
+  font-size: 1em;
+}
+
+/* form elements */
+
+fieldset {
+  border: 1px dotted #ccc;
+  margin: 0 0 1.4615em;
+  /*padding: 1.1em;*/
+}
+
+legend {
+  font-weight: bold;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+
+/***********BIO****************/
+.view-content .views-view-grid td:hover {
+   background: #0091bb;
+   color: #fff !important;
+}
+
+.view-content .views-view-grid td:hover a {
+    color: #fff !important;
+}
+
+.view-content td {
+    text-align: center;
+    vertical-align: top;
+}
+
+.item-characteristic {
+    font-size: 14px;
+}
+
+.item-characteristic .field-list {
+    font-weight: bold;
+}
+
+.item-characteristic p {
+    margin: 2px 0;
+}
+
+.item-characteristic .field-name-field-hero-main-picture,
+.item-characteristic .field-name-field-movies-picture,
+.item-characteristic .field-name-field-game-picture,
+.item-characteristic .field-name-field-comicshop-main-pic {
+    float: left;
+}
+
+.item-characteristic  img/*, .item-content img*/ {
+    -moz-box-shadow: 5px 5px 5px #888;
+    -webkit-box-shadow: 5px 10px 5px #888;
+    box-shadow: 5px 5px 5px #888;
+    margin-right: 15px;
+}
+
+
+.desk{position: relative;
+      width: 1440px;
+      height: 1024px;
+      border-radius: 50px;
+      background: #FFFFFF;
+
+}
+.0_3 {
+	overflow:hidden;
+}
+.e0_3 {
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:1024px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+	position:absolute;
+}
+.e1_2 {
+	width:3840px;
+	height:2160px;
+	position:absolute;
+	left:-1090px;
+	top:-348px;
+	background-image:url(images/1589017862_971362__1__1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_4 {
+	opacity:0.800000011920929;
+	width:508px;
+	height:497px;
+	position:absolute;
+	left:885px;
+	top:39px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+}
+.1_4 {
+	border:5px solid rgba(0, 0, 0, 1);
+}
+.e1_5 {
+	opacity:0.8999999761581421;
+	width:1066px;
+	height:1332px;
+	position:absolute;
+	left:-357px;
+	top:-168px;
+	background-image:url(images/920c256ed1d60a9e36d1f2eac242295e_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.1_5 {
+	border:1px solid rgba(0, 0, 0, 1)1px solid rgba(0, 0, 0, 1);
+}
+.e2_7 {
+	color:rgba(255, 255, 255, 1);
+	width:431px;
+	height:200px;
+	position:absolute;
+	left:37px;
+	top:62px;
+	font-family:Inter;
+	text-align:left;
+	font-size:70px;
+	letter-spacing:0;
+}
+.e2_9 {
+	color:rgba(255, 255, 255, 1);
+	width:413px;
+	height:101px;
+	position:absolute;
+	left:55px;
+	top:339px;
+	font-family:Inter;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+}
+.e2_6 {
+	width:874px;
+	height:2210px;
+	position:absolute;
+	left:-24px;
+	top:39px;
+	background-image:url(images/arthurmorganbio_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e2_10 {
+	background-color:rgba(13.754942715168, 167.47174233198166, 253.93750101327896, 0.4099999964237213);
+	width:429px;
+	height:143px;
+	position:absolute;
+	left:924px;
+	top:679px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius:50px;
+}
+.2_10 {
+	border:5px solid rgba(0, 0, 0, 1);
+}
+.e2_12 {
+	color:rgba(255, 255, 255, 1);
+	width:360px;
+	height:66px;
+	position:absolute;
+	left:964px;
+	top:712px;
+	font-family:Inter;
+	text-align:center;
+	font-size:54px;
+	letter-spacing:0;
+}
